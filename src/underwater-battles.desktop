@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+GenericName=underwater-battles
+Name=Underwater-Battles
+Type=Application
+Icon=underwater-battles.png
+Keywords=shootinggames;underwater-battles;aeroplane;plane;games;rpg;
+Exec=underwater-battles %F
+Categories=Games
+Terminal=false
+Name[en_IN]=Underwater-Battles
